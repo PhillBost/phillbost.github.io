@@ -1,0 +1,43 @@
+{
+  "hash": "08a9ac36",
+  "configHash": "0fa44b53",
+  "lockfileHash": "951a5dd1",
+  "browserHash": "48d75bf3",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "598b896c",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "8f7d0523",
+      "needsInterop": true
+    },
+    "motion/react": {
+      "src": "../../node_modules/motion/dist/es/motion/lib/react.mjs",
+      "file": "motion_react.js",
+      "fileHash": "69acc43e",
+      "needsInterop": false
+    },
+    "motion": {
+      "src": "../../node_modules/motion/dist/es/motion/lib/index.mjs",
+      "file": "motion.js",
+      "fileHash": "8eae09c8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TVFQMRVC": {
+      "file": "chunk-TVFQMRVC.js"
+    },
+    "chunk-P73DJNKG": {
+      "file": "chunk-P73DJNKG.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
