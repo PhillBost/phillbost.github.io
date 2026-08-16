@@ -1,4 +1,4 @@
-import portrait from "../assets/img/seniorphoto.jpg"
+import portrait from "../assets/img/updated-photo.jpeg"
 
 function AboutMe() {
     return (
@@ -12,8 +12,8 @@ function AboutMe() {
                 </div>
                 <div class="text-center">
                     <p class="pr-6 pt-6">
-                        I'm a student at Purdue University studying Computer Science with a concentration 
-                        in software engineering and a background in cybersecurity coursework. While I've 
+                        I'm an alumni of Purdue University, where I receieved my Bachelors of Science in 
+                        Computer Science with a focus on Cybersecurity and Software Engineering Coursework. While I've 
                         been coding since I was 14, my interest in Computer Science as a career path was 
                         sparked through my participation in competitive high school robotics, where 
                         in 2021 I was elected as the lead of software. Between 2019-2021, I could usually 

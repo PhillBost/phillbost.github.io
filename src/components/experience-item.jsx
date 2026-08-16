@@ -25,7 +25,7 @@ return(
         <div class="flex w-100 h-auto pb-10">
             <div class="sm:left-25 left-0 w-90 absolute italic text-right">
                 <h2>Pace Industries ~ Software & IT Developer</h2>
-                <h2>06/2025 - present</h2>
+                <h2>06/2025 - 01/2026</h2>
                 <div class="flex text-center gap-1">
                     <p class="bg-gray-500 w-3/4 rounded-2xl">Blazor App Development</p>
                     <p class="bg-gray-500 w-1/4 rounded-2xl">SQL</p>
